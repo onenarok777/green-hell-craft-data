@@ -1,0 +1,1059 @@
+[
+  {
+    "item": "Leaf Armor",
+    "image": "assets/images/leaf_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Stick Armor",
+    "image": "assets/images/stick_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Stick",
+        "amount": "3",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bamboo Armor",
+    "image": "assets/images/bamboo_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Bamboo Stick",
+        "amount": "3",
+        "image": "assets/images/bamboo_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bone Armor",
+    "image": "assets/images/bone_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Bone",
+        "amount": "3",
+        "image": "assets/images/bone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Armadillo Armor",
+    "image": "assets/images/armadillo_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Armadillo Shell",
+        "amount": "1",
+        "image": "assets/images/armadillo_shell.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Armor",
+    "image": "assets/images/metal_armor.png",
+    "ingredients": [
+      {
+        "name": "Banana Leaf",
+        "amount": "1",
+        "image": "assets/images/banana_leaf.png"
+      },
+      {
+        "name": "Metal Armor Cast",
+        "amount": "3",
+        "image": "assets/images/metal_armor_cast.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Stone Axe",
+    "image": "assets/images/stone_axe.png",
+    "ingredients": [
+      {
+        "name": "Small Stone",
+        "amount": "1",
+        "image": "assets/images/small_stone.png"
+      },
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      }
+    ]
+  },
+  {
+    "item": "Stone Pickaxe",
+    "image": "assets/images/stone_pickaxe.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Stone Blade",
+        "amount": "1",
+        "image": "assets/images/stone_blade.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Axe",
+    "image": "assets/images/axe.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Small Stone",
+        "amount": "2",
+        "image": "assets/images/small_stone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Heavy Stone Axe",
+    "image": "assets/images/heavy_stone_axe.png",
+    "ingredients": [
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Big Stone",
+        "amount": "1",
+        "image": "assets/images/big_stone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Blade Axe",
+    "image": "assets/images/blade_axe.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Stone Blade",
+        "amount": "3",
+        "image": "assets/images/stone_blade.png"
+      }
+    ]
+  },
+  {
+    "item": "Bone Axe",
+    "image": "assets/images/bone_axe.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Bone",
+        "amount": "2",
+        "image": "assets/images/bone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Axe",
+    "image": "assets/images/metal_axe.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Metal Axe",
+        "amount": "1",
+        "image": "assets/images/metal_axe.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Pickaxe",
+    "image": "assets/images/metal_pickaxe.png",
+    "ingredients": [
+      {
+        "name": "Metal Blade",
+        "amount": "1",
+        "image": "assets/images/metal_blade.png"
+      },
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Obsidian Axe",
+    "image": "assets/images/obsidian_axe.png",
+    "ingredients": [
+      {
+        "name": "Obsidian Stone",
+        "amount": "1",
+        "image": "assets/images/obsidian_stone.png"
+      },
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Aztec",
+    "image": "assets/images/aztec.png",
+    "ingredients": [
+      {
+        "name": "Plank",
+        "amount": "1",
+        "image": "assets/images/plank.png"
+      },
+      {
+        "name": "Obsidian",
+        "amount": "2",
+        "image": "assets/images/obsidian.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Leaf Bandage",
+    "image": "assets/images/leaf_bandage.png",
+    "ingredients": [
+      {
+        "name": "Molineria Leaf",
+        "amount": "1",
+        "image": "assets/images/molineria_leaf.png"
+      }
+    ]
+  },
+  {
+    "item": "Ash Dressing",
+    "image": "assets/images/ash_dressing.png",
+    "ingredients": [
+      {
+        "name": "Leaf Bandage",
+        "amount": "1",
+        "image": "assets/images/leaf_bandage.png"
+      },
+      {
+        "name": "Ash",
+        "amount": "1",
+        "image": "assets/images/ash.png"
+      }
+    ]
+  },
+  {
+    "item": "Tobacco Dressing",
+    "image": "assets/images/tobacco_dressing.png",
+    "ingredients": [
+      {
+        "name": "Leaf Bandage",
+        "amount": "1",
+        "image": "assets/images/leaf_bandage.png"
+      },
+      {
+        "name": "Tobacco Leaf",
+        "amount": "1",
+        "image": "assets/images/tobacco_leaf.png"
+      }
+    ]
+  },
+  {
+    "item": "Honey Dressing",
+    "image": "assets/images/honey_dressing.png",
+    "ingredients": [
+      {
+        "name": "Leaf Bandage",
+        "amount": "1",
+        "image": "assets/images/leaf_bandage.png"
+      },
+      {
+        "name": "Honeycomb",
+        "amount": "1",
+        "image": "assets/images/honeycomb.png"
+      }
+    ]
+  },
+  {
+    "item": "Lily Dressing",
+    "image": "assets/images/lily_dressing.png",
+    "ingredients": [
+      {
+        "name": "Leaf Bandage",
+        "amount": "1",
+        "image": "assets/images/leaf_bandage.png"
+      },
+      {
+        "name": "Plantain Lily Leaf",
+        "amount": "1",
+        "image": "assets/images/plantain_lily_leaf.png"
+      }
+    ]
+  },
+  {
+    "item": "Goliath Dressing",
+    "image": "assets/images/goliath_dressing.png",
+    "ingredients": [
+      {
+        "name": "Leaf Bandage",
+        "amount": "1",
+        "image": "assets/images/leaf_bandage.png"
+      },
+      {
+        "name": "Goliath Birdeater Ash",
+        "amount": "1",
+        "image": "assets/images/goliath_birdeater_ash.png"
+      }
+    ]
+  },
+  {
+    "item": "Stone Blade",
+    "image": "assets/images/stone_blade.png",
+    "ingredients": [
+      {
+        "name": "Small Stone",
+        "amount": "2",
+        "image": "assets/images/small_stone.png"
+      }
+    ]
+  },
+  {
+    "item": "Stick Blade",
+    "image": "assets/images/stick_blade.png",
+    "ingredients": [
+      {
+        "name": "Small Stick",
+        "amount": "2",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Small Stone",
+        "amount": "1",
+        "image": "assets/images/small_stone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bone Knife",
+    "image": "assets/images/bone_knife.png",
+    "ingredients": [
+      {
+        "name": "Bone",
+        "amount": "1",
+        "image": "assets/images/bone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Obsidian Blade",
+    "image": "assets/images/obsidian_blade.png",
+    "ingredients": [
+      {
+        "name": "Obsidian Stone",
+        "amount": "1",
+        "image": "assets/images/obsidian_stone.png"
+      },
+      {
+        "name": "Small Stone",
+        "amount": "1",
+        "image": "assets/images/small_stone.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Blade",
+    "image": "assets/images/metal_blade.png",
+    "ingredients": [
+      {
+        "name": "Metal Blade",
+        "amount": "1",
+        "image": "assets/images/metal_blade.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bamboo",
+    "image": "assets/images/bamboo.png",
+    "ingredients": [
+      {
+        "name": "Long Bamboo",
+        "amount": "1",
+        "image": "assets/images/long_bamboo.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Unfinished",
+    "image": "assets/images/unfinished.png",
+    "ingredients": [
+      {
+        "name": "Bamboo",
+        "amount": "1",
+        "image": "assets/images/bamboo.png"
+      },
+      {
+        "name": "Fiber",
+        "amount": "1",
+        "image": "assets/images/fiber.png"
+      }
+    ]
+  },
+  {
+    "item": "Poison Dart",
+    "image": "assets/images/poison_dart.png",
+    "ingredients": [
+      {
+        "name": "Unfinished",
+        "amount": "1",
+        "image": "assets/images/unfinished.png"
+      },
+      {
+        "name": "Poison Dart",
+        "amount": "1",
+        "image": "assets/images/poison_dart.png"
+      },
+      {
+        "name": "Frog Stretcher",
+        "amount": "1",
+        "image": "assets/images/frog_stretcher.png"
+      }
+    ]
+  },
+  {
+    "item": "Bow",
+    "image": "assets/images/bow.png",
+    "ingredients": [
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bamboo Bow",
+    "image": "assets/images/bamboo_bow.png",
+    "ingredients": [
+      {
+        "name": "Long Bamboo",
+        "amount": "1",
+        "image": "assets/images/long_bamboo.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Arrow",
+    "image": "assets/images/arrow.png",
+    "ingredients": [
+      {
+        "name": "Feather",
+        "amount": "2",
+        "image": "assets/images/feather.png"
+      },
+      {
+        "name": "Small Stick",
+        "amount": "1",
+        "image": "assets/images/small_stick.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Arrow",
+    "image": "assets/images/metal_arrow.png",
+    "ingredients": [
+      {
+        "name": "Metal Arrowhead",
+        "amount": "1",
+        "image": "assets/images/metal_arrowhead.png"
+      },
+      {
+        "name": "Feather",
+        "amount": "2",
+        "image": "assets/images/feather.png"
+      },
+      {
+        "name": "Small Stick",
+        "amount": "1",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Fishing Rod",
+    "image": "assets/images/fishing_rod.png",
+    "ingredients": [
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      },
+      {
+        "name": "Feather",
+        "amount": "2",
+        "image": "assets/images/feather.png"
+      },
+      {
+        "name": "Brazil Nut Shell",
+        "amount": "1",
+        "image": "assets/images/brazil_nut_shell.png"
+      }
+    ]
+  },
+  {
+    "item": "Bamboo",
+    "image": "assets/images/bamboo.png",
+    "ingredients": [
+      {
+        "name": "Long Bamboo",
+        "amount": "1",
+        "image": "assets/images/long_bamboo.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      },
+      {
+        "name": "Feather",
+        "amount": "2",
+        "image": "assets/images/feather.png"
+      },
+      {
+        "name": "Brazil Nut Shell",
+        "amount": "1",
+        "image": "assets/images/brazil_nut_shell.png"
+      }
+    ]
+  },
+  {
+    "item": "Fish Hook",
+    "image": "assets/images/fish_hook.png",
+    "ingredients": [
+      {
+        "name": "Fish Bone",
+        "amount": "1",
+        "image": "assets/images/fish_bone.png"
+      }
+    ]
+  },
+  {
+    "item": "Bone Hook",
+    "image": "assets/images/bone_hook.png",
+    "ingredients": [
+      {
+        "name": "Bone Needle",
+        "amount": "1",
+        "image": "assets/images/bone_needle.png"
+      }
+    ]
+  },
+  {
+    "item": "Coconut Bidon",
+    "image": "assets/images/coconut_bidon.png",
+    "ingredients": [
+      {
+        "name": "Coconut",
+        "amount": "1",
+        "image": "assets/images/coconut.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Hand Drill",
+    "image": "assets/images/hand_drill.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Small Stick",
+        "amount": "1",
+        "image": "assets/images/small_stick.png"
+      }
+    ]
+  },
+  {
+    "item": "Hand Drill",
+    "image": "assets/images/hand_drill.png",
+    "ingredients": [
+      {
+        "name": "Small Stick",
+        "amount": "1",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Plank",
+        "amount": "1",
+        "image": "assets/images/plank.png"
+      }
+    ]
+  },
+  {
+    "item": "Tribal Firestarter",
+    "image": "assets/images/tribal_firestarter.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "2",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "2",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Fire Bow",
+    "image": "assets/images/fire_bow.png",
+    "ingredients": [
+      {
+        "name": "Bow",
+        "amount": "1",
+        "image": "assets/images/bow.png"
+      },
+      {
+        "name": "Small Stone",
+        "amount": "1",
+        "image": "assets/images/small_stone.png"
+      },
+      {
+        "name": "Small Stick",
+        "amount": "1",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Plank",
+        "amount": "1",
+        "image": "assets/images/plank.png"
+      }
+    ]
+  },
+  {
+    "item": "Weak Torch",
+    "image": "assets/images/weak_torch.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Torch",
+    "image": "assets/images/torch.png",
+    "ingredients": [
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      },
+      {
+        "name": "Wood Resin",
+        "amount": "1",
+        "image": "assets/images/wood_resin.png"
+      }
+    ]
+  },
+  {
+    "item": "Armor Mold",
+    "image": "assets/images/armor_mold.png",
+    "ingredients": [
+      {
+        "name": "Empty Mold",
+        "amount": "1",
+        "image": "assets/images/empty_mold.png"
+      },
+      {
+        "name": "Melted Iron Ore",
+        "amount": "1",
+        "image": "assets/images/melted_iron_ore.png"
+      },
+      {
+        "name": "Stick",
+        "amount": "1",
+        "image": "assets/images/stick.png"
+      }
+    ]
+  },
+  {
+    "item": "Arrow Mold",
+    "image": "assets/images/arrow_mold.png",
+    "ingredients": [
+      {
+        "name": "Empty Mold",
+        "amount": "1",
+        "image": "assets/images/empty_mold.png"
+      },
+      {
+        "name": "Melted Iron Ore",
+        "amount": "1",
+        "image": "assets/images/melted_iron_ore.png"
+      },
+      {
+        "name": "Arrow",
+        "amount": "1",
+        "image": "assets/images/arrow.png"
+      }
+    ]
+  },
+  {
+    "item": "Axe Mold",
+    "image": "assets/images/axe_mold.png",
+    "ingredients": [
+      {
+        "name": "Empty Mold",
+        "amount": "1",
+        "image": "assets/images/empty_mold.png"
+      },
+      {
+        "name": "Melted Iron Ore",
+        "amount": "1",
+        "image": "assets/images/melted_iron_ore.png"
+      },
+      {
+        "name": "Stone Axe",
+        "amount": "1",
+        "image": "assets/images/stone_axe.png"
+      }
+    ]
+  },
+  {
+    "item": "Blade Mold",
+    "image": "assets/images/blade_mold.png",
+    "ingredients": [
+      {
+        "name": "Empty Mold",
+        "amount": "1",
+        "image": "assets/images/empty_mold.png"
+      },
+      {
+        "name": "Melted Iron Ore",
+        "amount": "1",
+        "image": "assets/images/melted_iron_ore.png"
+      },
+      {
+        "name": "Stone Blade",
+        "amount": "1",
+        "image": "assets/images/stone_blade.png"
+      }
+    ]
+  },
+  {
+    "item": "Weak Spear",
+    "image": "assets/images/weak_spear.png",
+    "ingredients": [
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      }
+    ]
+  },
+  {
+    "item": "Four Pronged",
+    "image": "assets/images/four_pronged.png",
+    "ingredients": [
+      {
+        "name": "Small Stick",
+        "amount": "2",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bamboo Spear",
+    "image": "assets/images/bamboo_spear.png",
+    "ingredients": [
+      {
+        "name": "Long Bamboo",
+        "amount": "1",
+        "image": "assets/images/long_bamboo.png"
+      }
+    ]
+  },
+  {
+    "item": "Four Pronged",
+    "image": "assets/images/four_pronged.png",
+    "ingredients": [
+      {
+        "name": "Small Stick",
+        "amount": "2",
+        "image": "assets/images/small_stick.png"
+      },
+      {
+        "name": "Long Bamboo",
+        "amount": "1",
+        "image": "assets/images/long_bamboo.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Stone Spear",
+    "image": "assets/images/stone_spear.png",
+    "ingredients": [
+      {
+        "name": "Stone Blade",
+        "amount": "1",
+        "image": "assets/images/stone_blade.png"
+      },
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Bone Spear",
+    "image": "assets/images/bone_spear.png",
+    "ingredients": [
+      {
+        "name": "Bone",
+        "amount": "1",
+        "image": "assets/images/bone.png"
+      },
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Metal Spear",
+    "image": "assets/images/metal_spear.png",
+    "ingredients": [
+      {
+        "name": "Metal Blade",
+        "amount": "1",
+        "image": "assets/images/metal_blade.png"
+      },
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  },
+  {
+    "item": "Obsidian Spear",
+    "image": "assets/images/obsidian_spear.png",
+    "ingredients": [
+      {
+        "name": "Obsidian Stone",
+        "amount": "1",
+        "image": "assets/images/obsidian_stone.png"
+      },
+      {
+        "name": "Long Stick",
+        "amount": "1",
+        "image": "assets/images/long_stick.png"
+      },
+      {
+        "name": "Rope",
+        "amount": "1",
+        "image": "assets/images/rope.png"
+      }
+    ]
+  }
+]
