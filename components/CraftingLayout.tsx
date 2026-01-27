@@ -9,7 +9,17 @@ interface CraftingLayoutProps {
   items: CraftingItem[];
 }
 
+import { LanguageProvider } from "./LanguageContext";
+
 export default function CraftingLayout({ items }: CraftingLayoutProps) {
+  return (
+    <LanguageProvider>
+      <CraftingLayoutContent items={items} />
+    </LanguageProvider>
+  );
+}
+
+function CraftingLayoutContent({ items }: CraftingLayoutProps) {
   const [selectedItem, setSelectedItem] = useState<CraftingItem | null>(null);
 
   return (

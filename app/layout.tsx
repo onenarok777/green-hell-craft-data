@@ -26,7 +26,7 @@ export default function RootLayout({
         <img
           src="/assets/background.png"
           alt="Background"
-          className="fixed inset-0 w-full h-full object-cover -z-10"
+          className="fixed inset-0 w-full h-full object-cover -z-10 blur-[2px]"
           style={{ objectPosition: "30% 50%" }}
         />
         {children}
