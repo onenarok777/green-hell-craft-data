@@ -45,28 +45,28 @@ export default function Sidebar({ items, selectedItem, onSelect }: SidebarProps)
       </div>
       
       <div className="flex-1 overflow-y-auto p-3 space-y-2 custom-scrollbar bg-[url('https://www.transparenttextures.com/patterns/dark-wood.png')] bg-repeat">
-        {filteredItems.map((item) => (
+        {filteredItems.map((item, idx) => (
           <button
-            key={item.item}
+            key={`${item.item}-${idx}`}
             onClick={() => onSelect(item)}
             className={`w-full text-left p-3 rounded-xl transition-all duration-300 font-mali flex items-center gap-4 group/item ${
-              selectedItem?.item === item.item
+              selectedItem === item
                 ? "bg-[#d97706] text-white shadow-[0_4px_12px_rgba(217,119,6,0.4)] scale-[1.02] border border-white/20"
                 : "text-[#8ba394] hover:bg-[#1a2520]/60 hover:text-[#d8c8b0] border border-transparent hover:border-[#3e5c4e]/30"
             }`}
           >
             <div className={`w-12 h-12 rounded-lg flex items-center justify-center p-1.5 border-2 transition-transform group-hover/item:scale-105 ${
-              selectedItem?.item === item.item ? "border-white/40 bg-white/10" : "border-[#3e5c4e]/50 bg-[#0d110f]/80"
+              selectedItem === item ? "border-white/40 bg-white/10" : "border-[#3e5c4e]/50 bg-[#0d110f]/80"
             }`}>
               <img 
                 src={item.image} 
                 alt={item.item} 
-                className={`w-full h-full object-contain ${selectedItem?.item === item.item ? "filter brightness-125" : "filter brightness-90 group-hover/item:brightness-110"}`}
+                className={`w-full h-full object-contain ${selectedItem === item ? "filter brightness-125" : "filter brightness-90 group-hover/item:brightness-110"}`}
               />
             </div>
             <div className="flex flex-col overflow-hidden">
                 <span className="truncate font-bold text-lg leading-tight">{t(item.item, language)}</span>
-                <span className={`text-xs opacity-60 uppercase tracking-tighter transition-opacity ${selectedItem?.item === item.item ? "opacity-90" : "group-hover/item:opacity-80"}`}>
+                <span className={`text-xs opacity-60 uppercase tracking-tighter transition-opacity ${selectedItem === item ? "opacity-90" : "group-hover/item:opacity-80"}`}>
                    {item.item}
                 </span>
             </div>
